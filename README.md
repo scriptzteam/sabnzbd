@@ -1,4 +1,4 @@
-SABnzbd - The automated Usenet download tool
+SABnzbd - The automated Usenet download tool - CHANGED RSS check limit from minimal 15 minutes to 1 minute :)
 ============================================
 
 This Unicode release is not compatible with 0.7.x queues!
